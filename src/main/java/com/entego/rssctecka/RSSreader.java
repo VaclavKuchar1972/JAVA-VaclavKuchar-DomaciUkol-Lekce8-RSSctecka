@@ -4,11 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RsscteckaApplication {
+public class RSSreader {
 
-	public static void main(String[] args) {
-		SpringApplication.run(RsscteckaApplication.class, args);
-	}
+	public static void main(String[] args) {SpringApplication.run(RSSreader.class, args);}
 
 
 
