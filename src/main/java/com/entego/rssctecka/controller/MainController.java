@@ -27,4 +27,8 @@ public class MainController {
         return fileLoader.readBookTextFile("historic");
     }
 
+    // URL adresy pro otestování správného chodu
+    //localhost:8080/books/scifi
+    //localhost:8080/books/romantic
+    //localhost:8080/books/historic
 }
